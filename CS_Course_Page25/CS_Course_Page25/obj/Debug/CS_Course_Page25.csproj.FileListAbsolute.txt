@@ -1,0 +1,7 @@
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\bin\Debug\CS_Course_Page25.exe.config
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\bin\Debug\CS_Course_Page25.exe
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\bin\Debug\CS_Course_Page25.pdb
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\obj\Debug\CS_Course_Page25.csprojAssemblyReference.cache
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\obj\Debug\CS_Course_Page25.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\obj\Debug\CS_Course_Page25.exe
+C:\Users\SirJUST\source\repos\CS_Course_Page25\CS_Course_Page25\obj\Debug\CS_Course_Page25.pdb
