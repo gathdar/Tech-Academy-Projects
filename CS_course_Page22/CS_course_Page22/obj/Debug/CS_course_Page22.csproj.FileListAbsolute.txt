@@ -1,0 +1,6 @@
+C:\Users\SirJUST\source\repos\CS_course_Page22\CS_course_Page22\bin\Debug\CS_course_Page22.exe.config
+C:\Users\SirJUST\source\repos\CS_course_Page22\CS_course_Page22\bin\Debug\CS_course_Page22.exe
+C:\Users\SirJUST\source\repos\CS_course_Page22\CS_course_Page22\bin\Debug\CS_course_Page22.pdb
+C:\Users\SirJUST\source\repos\CS_course_Page22\CS_course_Page22\obj\Debug\CS_course_Page22.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\CS_course_Page22\CS_course_Page22\obj\Debug\CS_course_Page22.exe
+C:\Users\SirJUST\source\repos\CS_course_Page22\CS_course_Page22\obj\Debug\CS_course_Page22.pdb
