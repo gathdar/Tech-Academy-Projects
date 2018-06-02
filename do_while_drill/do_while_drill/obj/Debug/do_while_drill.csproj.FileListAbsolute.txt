@@ -1,0 +1,7 @@
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\bin\Debug\do_while_drill.exe.config
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\bin\Debug\do_while_drill.exe
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\bin\Debug\do_while_drill.pdb
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\obj\Debug\do_while_drill.csprojAssemblyReference.cache
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\obj\Debug\do_while_drill.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\obj\Debug\do_while_drill.exe
+C:\Users\SirJUST\source\repos\TechAcademy\do_while_drill\do_while_drill\obj\Debug\do_while_drill.pdb
