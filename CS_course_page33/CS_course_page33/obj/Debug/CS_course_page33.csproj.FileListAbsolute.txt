@@ -4,3 +4,4 @@ C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page33\CS_course_page33\bin\
 C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page33\CS_course_page33\obj\Debug\CS_course_page33.csproj.CoreCompileInputs.cache
 C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page33\CS_course_page33\obj\Debug\CS_course_page33.exe
 C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page33\CS_course_page33\obj\Debug\CS_course_page33.pdb
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page33\CS_course_page33\obj\Debug\CS_course_page33.csprojAssemblyReference.cache
