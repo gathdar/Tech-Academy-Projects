@@ -8,7 +8,7 @@ namespace CS_course_page61
         {
             Math_operation three_part_operation = new Math_operation();
             Console.WriteLine("Greetings. Please enter two integers and I will do a mysterious operation on them.");
-            Console.WriteLine("If you submit nothing for the second, it will default to 5.");
+            Console.WriteLine("The second number is optional. If you provide nothing, or something bizarre, it will default to 5.");
             Console.Write("The first: ");
             string input1 = Console.ReadLine();
             Console.Write("The second: ");
