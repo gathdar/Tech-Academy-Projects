@@ -1,0 +1,7 @@
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\bin\Debug\CS_course_page64.exe.config
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\bin\Debug\CS_course_page64.exe
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\bin\Debug\CS_course_page64.pdb
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\obj\Debug\CS_course_page64.csprojAssemblyReference.cache
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\obj\Debug\CS_course_page64.csproj.CoreCompileInputs.cache
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\obj\Debug\CS_course_page64.exe
+c:\users\sirjust\source\repos\CS_course_page64\CS_course_page64\obj\Debug\CS_course_page64.pdb
