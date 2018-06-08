@@ -1,0 +1,7 @@
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\bin\Debug\CS_course_page79.exe.config
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\bin\Debug\CS_course_page79.exe
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\bin\Debug\CS_course_page79.pdb
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\obj\Debug\CS_course_page79.csprojAssemblyReference.cache
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\obj\Debug\CS_course_page79.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\obj\Debug\CS_course_page79.exe
+C:\Users\SirJUST\source\repos\TechAcademy\CS_course_page79\CS_course_page79\obj\Debug\CS_course_page79.pdb
