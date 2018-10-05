@@ -1,0 +1,7 @@
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\bin\Debug\TA_JP104.exe.config
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\bin\Debug\TA_JP104.exe
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\bin\Debug\TA_JP104.pdb
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\obj\Debug\TA_JP104.csprojAssemblyReference.cache
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\obj\Debug\TA_JP104.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\obj\Debug\TA_JP104.exe
+C:\Users\SirJUST\source\repos\TA_JP104\TA_JP104\obj\Debug\TA_JP104.pdb
